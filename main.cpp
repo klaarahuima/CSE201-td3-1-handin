@@ -33,6 +33,7 @@ int main(int argc, char* argv[])
 #if GRADING != 1
     {
         std::cout << "A better, new initial message" << std::endl;
+        // Modifying the file again
     }
 #else
   // RUN THE AUTOMATIC GRADER
