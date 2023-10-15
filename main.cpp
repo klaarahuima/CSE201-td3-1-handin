@@ -32,7 +32,7 @@ int main(int argc, char* argv[])
 {
 #if GRADING != 1
     {
-        std::cout << "First git commit" << std::endl;
+        std::cout << "A better message" << std::endl;
     }
 #else
   // RUN THE AUTOMATIC GRADER
